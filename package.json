@@ -1,0 +1,19 @@
+{
+  "name": "typescript-book",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@types/lodash.curry": "^4.1.7",
+    "@types/node": "^18.7.23",
+    "@types/react": "^18.0.21",
+    "@types/react-dom": "^18.0.6",
+    "lodash.curry": "^4.1.1",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "ts-node": "^10.9.1",
+    "tslint": "^6.1.3",
+    "typescript": "^4.8.4"
+  }
+}
